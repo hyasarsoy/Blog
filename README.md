@@ -1,4 +1,4 @@
-#Hazır tasarımı PHP ile yönetilebilir bir içerik haline getirildi
+
 
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Blog Home](http://startbootstrap.com/template-overviews/blog-home/)
